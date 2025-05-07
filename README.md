@@ -1,4 +1,4 @@
-# Emitir Orçamentos automaticamente
+# Projeto para emissão de Orçamentos automaticamente
 
 
 
